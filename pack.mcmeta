@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 22,
-    "description": "§6by §cOculie"
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 34
+    },
+    "description": "Made by PANAGIVTHS"
   }
 }

@@ -1,9 +1,10 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/image",
-		"2": "block/scan_screen",
-		"particle": "block/image"
+		"1": "item/custom/misc/scanner",
+		"2": "item/custom/misc/scan_screen",
+		"particle": "item/custom/misc/scanner"
 	},
 	"elements": [
 		{

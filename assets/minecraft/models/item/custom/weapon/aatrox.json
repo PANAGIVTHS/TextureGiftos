@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "aatrox:custom/aatrox_sword",
 	"textures": {
-		"4": "block/nether_portal",
+		"4": "item/custom/weapon/nether_portal",
 		"5": "block/obsidian",
 		"6": "block/coal_block",
 		"particle": "block/crying_obsidian"
