@@ -1,0 +1,35 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Guts' Sword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "mcd:item/swords/guts"
+        }
+      },
+      {
+        "when": "Aatrox",
+        "model": {
+          "type": "minecraft:model",
+          "model": "mcd:item/swords/aatrox"
+        }
+      },
+      {
+        "when": "Tenryū’s Shriek",
+        "model": {
+          "type": "minecraft:model",
+          "model": "mcd:item/swords/agsheath"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_sword"
+    }
+  },
+  "oversized_in_gui": true
+}

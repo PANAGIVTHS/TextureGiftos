@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/custom/misc/scanner",
-		"2": "item/custom/misc/scan_screen",
-		"particle": "item/custom/misc/scanner"
+		"1": "mcd:item/misc/scanner",
+		"2": "mcd:item/misc/scan_screen",
+		"particle": "mcd:item/misc/scanner"
 	},
 	"elements": [
 		{

@@ -1,0 +1,21 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Ender's Wrath",
+        "model": {
+          "type": "minecraft:model",
+          "model": "mcd:item/misc/enders_wrath"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/ender_eye"
+    }
+  },
+  "oversized_in_gui": true
+}
