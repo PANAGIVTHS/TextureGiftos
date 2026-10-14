@@ -24,6 +24,20 @@
           "type": "minecraft:model",
           "model": "mcd:item/swords/agsheath"
         }
+      },
+      {
+        "when": "Dragonslayer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "mcd:item/swords/dragonslayer"
+        }
+      },
+      {
+        "when": "Dragon Slayer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "mcd:item/swords/dragonslayer"
+        }
       }
     ],
     "fallback": {
